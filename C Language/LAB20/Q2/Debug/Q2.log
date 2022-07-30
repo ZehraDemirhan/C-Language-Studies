@@ -1,0 +1,3 @@
+﻿  Q2.cpp
+C:\Users\ZEHRA\source\repos\LAB20\Q2\structL.h(76,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'LType'
+  Q2.vcxproj -> C:\Users\ZEHRA\source\repos\LAB20\Debug\Q2.exe

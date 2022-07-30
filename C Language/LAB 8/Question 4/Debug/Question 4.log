@@ -1,0 +1,4 @@
+﻿  Question2.cpp
+C:\Users\ZEHRA\source\repos\LAB 8\Question 4\Question2.cpp(25,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ZEHRA\source\repos\LAB 8\Question 4\Question2.cpp(25,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Question 4.vcxproj -> C:\Users\ZEHRA\source\repos\LAB 8\Debug\Question 4.exe

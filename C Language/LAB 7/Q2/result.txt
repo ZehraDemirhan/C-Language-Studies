@@ -1,0 +1,8 @@
+Adaptability-12
+Aerosol-7
+Bio-Carbon-10
+Climate-7
+Development-11
+Disaster-8
+Pollution-9
+Sustainability-14

@@ -1,0 +1,4 @@
+﻿  Q4.cpp
+C:\Users\ZEHRA\source\repos\LAB 3\Q4\Q4.cpp(26,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\ZEHRA\source\repos\LAB 3\Q4\Q4.cpp(36,9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+C:\Users\ZEHRA\source\repos\LAB 3\Q4\Q4.cpp(52): error C4700: uninitialized local variable 'arr' used

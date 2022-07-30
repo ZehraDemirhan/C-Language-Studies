@@ -1,0 +1,4 @@
+﻿  LAB_14 Q1.cpp
+C:\Users\ZEHRA\source\repos\LAB_EXAM_STUDY\LAB_EXAM_STUDY\LAB_14 Q1.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ZEHRA\source\repos\LAB_EXAM_STUDY\LAB_EXAM_STUDY\LAB_14 Q1.cpp(22,6): warning C4101: 'random': unreferenced local variable
+  LAB_EXAM_STUDY.vcxproj -> C:\Users\ZEHRA\source\repos\LAB_EXAM_STUDY\Debug\LAB_EXAM_STUDY.exe

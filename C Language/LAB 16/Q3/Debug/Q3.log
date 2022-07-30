@@ -1,0 +1,3 @@
+﻿  Q3.cpp
+C:\Users\ZEHRA\source\repos\LAB 16\Q3\Q3.cpp(36): warning C4715: 'readFile': not all control paths return a value
+  Q3.vcxproj -> C:\Users\ZEHRA\source\repos\LAB 16\Debug\Q3.exe

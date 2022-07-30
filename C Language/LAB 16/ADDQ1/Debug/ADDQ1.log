@@ -1,0 +1,4 @@
+﻿  ADDQ1.cpp
+C:\Users\ZEHRA\source\repos\LAB 16\ADDQ1\ADDQ1.cpp(29,6): warning C4101: 'GPArr': unreferenced local variable
+C:\Users\ZEHRA\source\repos\LAB 16\ADDQ1\ADDQ1.cpp(28,6): warning C4101: 'IDArr': unreferenced local variable
+  ADDQ1.vcxproj -> C:\Users\ZEHRA\source\repos\LAB 16\Debug\ADDQ1.exe

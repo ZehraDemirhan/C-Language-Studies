@@ -1,0 +1,3 @@
+﻿  Q1.cpp
+C:\Users\ZEHRA\source\repos\LAB 16\LAB 16\Q1.cpp(19): warning C4715: 'readFromFile': not all control paths return a value
+  LAB 16.vcxproj -> C:\Users\ZEHRA\source\repos\LAB 16\Debug\LAB 16.exe

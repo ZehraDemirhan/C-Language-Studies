@@ -1,0 +1,8 @@
+1111 A A- C C+ A- A-
+2222 D+ A- B- B C- A 
+3333 F D B- C A A-
+4444 A- B A A- B- D
+5555 B- C- D+ D F A
+6666 D+ C C+ B- B B+
+7777 B- A- C+ C+ B+ A-
+8888 A- B+ C C+ B D+

@@ -1,0 +1,4 @@
+﻿  Extra4.cpp
+C:\Users\ZEHRA\source\repos\LAB 8\Extra question4\Extra4.cpp(7,13): warning C4101: 'm': unreferenced local variable
+C:\Users\ZEHRA\source\repos\LAB 8\Extra question4\Extra4.cpp(7,11): warning C4101: 'l': unreferenced local variable
+  Extra question4.vcxproj -> C:\Users\ZEHRA\source\repos\LAB 8\Debug\Extra question4.exe

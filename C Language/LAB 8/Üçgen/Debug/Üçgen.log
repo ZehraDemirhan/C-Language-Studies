@@ -1,0 +1,3 @@
+﻿  Üçgen.cpp
+C:\Users\ZEHRA\source\repos\LAB 8\Üçgen\Üçgen.cpp(20,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Üçgen.vcxproj -> C:\Users\ZEHRA\source\repos\LAB 8\Debug\Üçgen.exe
